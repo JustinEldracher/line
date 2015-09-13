@@ -12,10 +12,6 @@ decided to tweak it a little.  I increased the objective size, decreased the
 player size, increased the player speed and then decreased the line speed, so
 you have a little better chance of survival now!
 
-I don't know how to compile a .love file though, so after you install LOVE2D
-`cd` to where main.lua is and run `love .`  That should do it!
-
-
 Running Lines and Circles
 -------------------------
 
